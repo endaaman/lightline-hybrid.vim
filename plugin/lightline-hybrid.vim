@@ -60,7 +60,7 @@ else
 	let s:p.normal.middle = [
 				\ [s:mono4, s:mono1, s:c_mono4, s:c_mono1]]
 	let s:p.normal.left = [
-				\ [s:mono0, s:green, s:c_mono0, s:c_green],
+				\ [s:mono0, s:blue, s:c_mono0, s:c_blue],
 				\ [s:mono5, s:mono3, s:c_mono5, s:c_mono3]]
 	let s:p.normal.right = [
 				\ [s:mono0, s:mono4, s:c_mono0, s:c_mono4],
@@ -77,7 +77,7 @@ let s:p.inactive.left = [
 			\ s:p.inactive.middle[0]]
 
 let s:p.insert.left = [
-			\ [s:mono0, s:blue, s:c_mono0, s:c_blue],
+			\ [s:mono0, s:green, s:c_mono0, s:c_green],
 			\ s:p.normal.left[1]]
 let s:p.replace.left = [
 			\ [s:mono0, s:red, s:c_mono0, s:c_red],
