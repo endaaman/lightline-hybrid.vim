@@ -63,7 +63,7 @@ else
 				\ [s:mono0, s:blue, s:c_mono0, s:c_blue],
 				\ [s:mono5, s:mono3, s:c_mono5, s:c_mono3]]
 	let s:p.normal.right = [
-				\ [s:mono0, s:mono4, s:c_mono0, s:c_mono4],
+				\ [s:mono0, s:mono5, s:c_mono0, s:c_mono5],
 				\ [s:mono0, s:mono4, s:c_mono0, s:c_mono4]]
 endif
 
